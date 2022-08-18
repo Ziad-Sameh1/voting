@@ -14,7 +14,7 @@
         android:theme="@style/Theme.Voting"
         tools:targetApi="31">
         <activity
-            android:name=".ViewPollActivity"
+            android:name=".VoteActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
