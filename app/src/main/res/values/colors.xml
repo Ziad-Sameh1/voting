@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="first_gradient_color">#3bf1f4</color>
     <color name="second_gradient_color">#bca1f7</color>
+    <color name="bg">#212121</color>
 </resources>

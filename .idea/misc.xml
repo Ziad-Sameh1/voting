@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.35625" />
         <entry key="app/src/main/res/drawable-v24/circle_button.xml" value="0.2645" />
         <entry key="app/src/main/res/drawable/alert_dialog.xml" value="0.2645" />
         <entry key="app/src/main/res/drawable/gradient_bg.xml" value="0.2645" />
@@ -12,6 +13,7 @@
         <entry key="app/src/main/res/layout/alert_dialog.xml" value="0.35520833333333335" />
         <entry key="app/src/main/res/layout/poll_item.xml" value="0.35520833333333335" />
         <entry key="app/src/main/res/layout/vote_item.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/voters_num_dialog.xml" value="0.35625" />
         <entry key="app/src/main/res/menu/context_menu.xml" value="0.33" />
       </map>
     </option>

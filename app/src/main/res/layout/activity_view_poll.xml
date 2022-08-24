@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/white"
     tools:context=".VoteActivity">
 
     <com.google.android.material.appbar.AppBarLayout
@@ -80,11 +81,12 @@
 
 <!--        />-->
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/add_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/circle_button"
+        android:background="@drawable/my_btn"
+        android:paddingHorizontal="16dp"
         android:text="Add Option"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@id/save_btn"
@@ -92,11 +94,11 @@
         android:layout_marginBottom="16dp"
         android:layout_marginTop="16dp"
         />
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/save_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/circle_button"
+        android:background="@drawable/my_btn"
         android:text="Save"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
